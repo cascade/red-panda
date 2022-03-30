@@ -32,7 +32,7 @@ setup(
     python_requires=">=3.6",
     install_requires=[
         "pandas>=1.1.0",
-        "psycopg2-binary>=2.8.5",
+        "psycopg2>=2.8.5",
         "boto3>=1.14.38",
         "awscli>=1.18.115",
         "PyAthena>=1.11.0"
